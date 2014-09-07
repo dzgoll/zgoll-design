@@ -2,3 +2,4 @@ Git Step by step
 http://de.slideshare.net/ephigenia1/git-praktische-einfhrung-13308756
 
 Änderung 1
+Ändrung 2
